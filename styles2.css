@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+
+		#headerArea{
+			width:900px;
+			height:75px;
+			background:url("sky.jpg") top center no-repeat;
+			padding-left:50px;
+			padding-top:25px;
+		}		
+		#sideArea{
+			width:300px;
+			float:left;	
+			min-height:500px;
+			padding:20px;
+			background-color: bisque;
+			font-family: Impact;
+			font-size:25px;
+			font-weight:bold;
+		}
+		
+		#sideArea a{
+			text-decoration:none;
+			color:cyan;
+		}
+
+		#sideArea a:hover{
+			text-decoration:none;
+			color:crimson;
+		}			
+		
+		#textArea{
+			width:600px;
+			float:left;
+			padding:20px;
+		}
+		#footerArea{
+			width:900px;
+			height:40px;
+			background-color:#ccc;
+			padding:5px;
+		}		
+		
+		.clear{
+			clear:both;
+		}
+		
+		body{
+			font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans";
+		}
+		
+		h1{
+			font-family: "Lucida Sans";
+			font-weight:bold;
+		}
+		
