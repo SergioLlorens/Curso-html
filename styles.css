@@ -4,6 +4,10 @@
 	.sampleText{
 		font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 		font-size:18pt;
+		font-weight:bold;
+		font-style:italic;
+		letter-spacing:2pt;
+		line-height:24pt;
 		color:#047f0a;	
 		width:400px;
 		border: solid 2px #000;
