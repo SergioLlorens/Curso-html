@@ -10,9 +10,12 @@
 		line-height:24pt;
 		color:#047f0a;	
 		width:400px;
-		border: solid 2px #000;
+		border-top: solid 5px #ff0000;
+		border-left: dotted 5px blue;
+		border-right: solid 5px #fff000;
+		border-bottom: dotted 5px #ffff00;
 		padding:10px;
 		margin:100px;
-		background-color:#000000;
+		
 	}
 	
