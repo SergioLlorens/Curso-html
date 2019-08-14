@@ -2,16 +2,16 @@
 
 
 		#headerArea{
-			width:900px;
+			width:1890px;
 			height:75px;
 			background:url("sky.jpg") top center no-repeat;
-			padding-left:50px;
+			padding-left:20px;
 			padding-top:25px;
 		}		
 		#sideArea{
 			width:300px;
 			float:left;	
-			min-height:500px;
+			min-height:700px;
 			padding:20px;
 			background-color: bisque;
 			font-family: Impact;
@@ -30,13 +30,15 @@
 		}			
 		
 		#textArea{
-			width:600px;
+			width:1507px;
+			height:700px;
 			float:left;
 			padding:20px;
+			
 		}
 		#footerArea{
-			width:900px;
-			height:40px;
+			width:1899px;
+			height:40px;			
 			background-color:#ccc;
 			padding:5px;
 		}		
