@@ -23,3 +23,16 @@
 		background: url("sky.jpg") top center no-repeat;	
 	}
 	
+	a {		
+		color:yellowgreen;
+		font-weight: bold;
+		font-size:15pt;
+		text-decoration: none;		
+		
+	}
+	
+	a:hover {		
+		text-decoration:underline;
+		
+	}
+	
